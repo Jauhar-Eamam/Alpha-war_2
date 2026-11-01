@@ -1,0 +1,13 @@
+Transaction_Cost_Rate,Strategy,Total_Return_%,Annual_Return_%,Sharpe_Ratio,Sortino_Ratio,Calmar_Ratio,Max_Drawdown_%,Total_Costs_Paid_%,Daily_Turnover_%,Final_Value_INR
+0.001,Trend Following,62.78,10.89,0.68,0.96,0.34,-32.32,2.94,2.48,2987262.96
+0.001,Mean Reversion,58.5,10.26,0.64,0.9,0.29,-35.07,5.38,4.53,2574052.96
+0.001,Volatility-Adjusted Momentum,107.43,16.74,0.94,1.35,0.51,-32.91,2.71,2.28,6665476.27
+0.001,Equal-Weight Benchmark,82.8,13.65,0.8,1.12,0.4,-34.39,0.0,0.0,3665867.7
+0.002,Trend Following,58.05,10.2,0.64,0.91,0.31,-32.87,5.88,2.48,2766566.41
+0.002,Mean Reversion,50.19,9.01,0.57,0.81,0.25,-36.25,10.76,4.53,2147856.06
+0.002,Volatility-Adjusted Momentum,101.87,16.07,0.91,1.3,0.49,-32.94,5.42,2.28,6142067.89
+0.002,Equal-Weight Benchmark,82.8,13.65,0.8,1.12,0.4,-34.39,0.0,0.0,3662226.43
+0.003,Trend Following,53.46,9.51,0.61,0.85,0.28,-33.63,8.83,2.48,2562067.51
+0.003,Mean Reversion,42.3,7.77,0.51,0.71,0.21,-37.4,16.14,4.53,1791924.63
+0.003,Volatility-Adjusted Momentum,96.46,15.4,0.88,1.25,0.47,-32.98,8.14,2.28,5659454.01
+0.003,Equal-Weight Benchmark,82.8,13.65,0.8,1.12,0.4,-34.39,0.0,0.0,3658585.17

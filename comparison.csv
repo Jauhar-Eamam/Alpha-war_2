@@ -1,0 +1,7 @@
+,total_return_%,sharpe,sortino,calmar,max_drawdown_%,trading_accuracy_%,costs_paid_%,avg_exposure_%,fit_sharpe,generalization
+decide_blend_rp_ridge  <- submitted,173.975,1.542,2.207,1.019,-24.562,51.428,14.534,78.852,1.051,0.492
+decide_ridge_ranker,186.569,1.457,2.084,0.884,-29.741,51.576,20.725,81.847,1.143,0.314
+BENCHMARK equal weight,283.346,1.434,2.03,1.009,-34.387,51.202,0.1,100.0,1.349,0.085
+decide_risk_parity_trend,147.469,1.367,1.954,1.037,-21.438,50.774,7.885,79.604,0.949,0.419
+decide_momentum_quality,141.727,1.057,1.467,0.709,-30.474,51.317,18.409,90.189,1.101,-0.044
+decide_dip_in_uptrend,91.498,0.96,1.365,0.527,-29.385,50.776,30.462,80.972,0.48,0.48
